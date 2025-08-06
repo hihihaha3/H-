@@ -76,7 +76,7 @@ function modal(content, callback) {
         '<div class="mask"></div>'+
         '<div class="modal">'+
         '<p>'+ content +'</p>'+
-        '<button type="button" id="confirm" class="confirm">确定</button>'+
+        '<button type="button" id="confirm" class="confirm">Tiếp tục</button>'+
         '</div>'+
         '</div>';
     $('body').append(tpl);
